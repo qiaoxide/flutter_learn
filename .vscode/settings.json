@@ -1,0 +1,13 @@
+{
+    "java.gradle.buildServer.enabled": "off",
+    "java.import.gradle.wrapper.enabled": false,
+    "java.autobuild.enabled": false,
+    "files.watcherExclude": {
+      "**/android/**": true
+    },
+    "files.exclude": {
+      "**/android/**": true
+    }
+    
+}
+  
